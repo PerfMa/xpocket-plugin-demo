@@ -1,0 +1,8 @@
+plugin-name=demoplugin
+plugin-namespace=xpocket
+plugin-description=This is a example for XPocket Plugin DEF file.
+plugin-version=0.0.1-SNAPSHOT
+plugin-author=PerfMa
+plugin-project=https://github.com/perfma/xpocket-plugin-archetype
+plugin-command-package=com.perfma.xlab.plugin.demo
+main-implementation=com.perfma.xlab.plugin.demo.ExampleXPocketPlugin
